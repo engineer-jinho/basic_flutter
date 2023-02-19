@@ -137,9 +137,7 @@ app.*.map.json
 /ios/Runner.xcodeproj/project.pbxproj
 /macos/Runner.xcodeproj/project.pbxproj
 /pubspec.lock
-/pubspec.yaml
 /ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md
-/README.md
 /macos/Runner/Release.entitlements
 /ios/Flutter/Release.xcconfig
 /macos/Runner/Configs/Release.xcconfig
