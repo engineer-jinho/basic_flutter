@@ -1,6 +1,8 @@
 # flutter
 flutter 1.9 이후로 사용 안 한지 너무 오래되서 다 까먹음. 다시 앱 개발을 시작하게 되서 기록 시작
 
+자세한 내용은 다음 링크 참조
+https://engineer-jinho.github.io/basic_flutter/
 
 # Installation
 
