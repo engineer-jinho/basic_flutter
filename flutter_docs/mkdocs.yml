@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Flutter 기본 사용법
+
+nav:
+  - 홈: index.md
+  - Widgets: widgets.md
+
+theme:
+  name: material
